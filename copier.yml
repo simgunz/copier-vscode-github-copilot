@@ -1,0 +1,5 @@
+project_type:
+  type: str
+  choices:
+    - python
+  help: What project type are you creating?

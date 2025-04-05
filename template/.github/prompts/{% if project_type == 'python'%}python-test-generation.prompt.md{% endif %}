@@ -1,0 +1,25 @@
+## General Testing Guidelines
+- Include both positive and negative test cases
+
+## Test Structure
+- Use descriptive test names that explain what is being tested
+- Group related tests appropriately
+- Follow the Arrange-Act-Assert (AAA) pattern when applicable
+- Keep tests focused and atomic
+- Ensure tests are deterministic and repeatable
+
+## Mocking and Fixtures
+- Use mocks and stubs appropriately
+- Create reusable fixtures when needed
+- Avoid over-mocking which can lead to brittle tests
+
+
+## Test Quality
+- Tests should be independent of each other
+- Avoid test interdependencies
+- Write tests that are fast to execute
+- Tests should be easy to understand and maintain
+- Avoid too many assertions in a single test
+
+## Other Considerations
+- Avoid useless comments in tests

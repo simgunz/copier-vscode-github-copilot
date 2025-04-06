@@ -1,0 +1,6 @@
+## General code generation guidelines
+- Minimize the use of comments
+- Add comments ONLY WHEN STRICTLY NECESSARY to explain complex code blocks
+
+## Libraries to use
+- Prefer pathlib over os to manage paths
